@@ -1,2 +1,3 @@
 
-print("Ahoj, světe!")
+while True:
+    print("Ahoj, světe!")
